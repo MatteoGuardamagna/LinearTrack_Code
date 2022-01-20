@@ -45,3 +45,15 @@ in code_plotting (should depend only on data available in Processed Results fold
 \
 \
 }
+
+
+## References
+
+```
+@Article{Guardamagna2021,
+  author    = {Guardamagna, Matteo and Stella, Federico and Battaglia, Francesco P.},
+  title     = {Distinct hippocampal network states support theta phase precession and theta sequences in CA1},
+  journal   = {bioRxiv},
+  year      = {2021}
+}
+```
